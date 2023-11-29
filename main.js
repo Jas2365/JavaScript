@@ -1,7 +1,6 @@
 // //lag a statement using console.log()
 // console.log("hello from main.js")
 
-
 // // variable
 // let age = 25
 // console.log(age)
@@ -47,7 +46,7 @@
 // // console.log(a)
 
 // let x = 10
-// let y = 5 
+// let y = 5
 
 // console.log(x%y)
 // console.log(++x)
