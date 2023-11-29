@@ -147,8 +147,8 @@
 // const arrowSum = (a, b) => a + b
 // const addFive = num => num + 5
 
-//  sum = addFive(25)
-// console.log(sum)
+// sum = addFive(25);
+// console.log(sum);
 
 // const myNum = 100
 // const myName = 'Superman'
@@ -196,17 +196,17 @@
 //   console.log('Number is zero');
 // }
 
-// const color = 10
+const color = 10;
 
-// switch(color) {
-//   case 'red' :
-//     console.log('Color is red')
-//     break
-//     case 'blue' : 
-//     console.log('Color is blue')
-//     break
-//     case 'green' :
-//     console.log('Color is green')
-//     default: 
-//     console.log('Not a valid color')
-// }
+switch (color) {
+  case "red":
+    console.log("Color is red");
+    break;
+  case "blue":
+    console.log("Color is blue");
+    break;
+  case "green":
+    console.log("Color is green");
+  default:
+    console.log("Not a valid color");
+}
