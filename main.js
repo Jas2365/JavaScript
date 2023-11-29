@@ -195,17 +195,17 @@
 //   console.log('Number is zero');
 // }
 
-const color = 10;
+// const color = 10;
 
-switch (color) {
-  case "red":
-    console.log("Color is red");
-    break;
-  case "blue":
-    console.log("Color is blue");
-    break;
-  case "green":
-    console.log("Color is green");
-  default:
-    console.log("Not a valid color");
-}
+// switch (color) {
+//   case "red":
+//     console.log("Color is red");
+//     break;
+//   case "blue":
+//     console.log("Color is blue");
+//     break;
+//   case "green":
+//     console.log("Color is green");
+//   default:
+//     console.log("Not a valid color");
+// }
